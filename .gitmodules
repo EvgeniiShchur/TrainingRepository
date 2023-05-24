@@ -1,0 +1,3 @@
+[submodule "SubmoduleTraining"]
+	path = SubmoduleTraining
+	url = git@github.com:EvgeniiShchur/SubmoduleRepository.git
